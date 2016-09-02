@@ -1,0 +1,7 @@
+Input two different analog inputs to the ADC
+module of Arduino, perform the mentioned operations and display the output
+on a CRO. The first input should be from function generator and the second
+input should be from any other input of your choice (e.g. potentiometer,
+analog sensor, etc.). The operations are:
+(i) Simple addition of the two input signals.
+(ii) Subtract Signal 2 from Signal 1.
